@@ -1,0 +1,13 @@
+#Test files
+tests
+data/raw
+
+# Configuration files
+*.ini
+
+# Cache files Python
+*.pyc
+
+*.bkp
+*.dtmp
+*.drawio
